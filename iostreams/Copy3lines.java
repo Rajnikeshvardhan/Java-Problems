@@ -1,3 +1,4 @@
+//3. Write a Java program to read first 3 lines from a file.
 package iostreams;
 
 import java.io.*;
