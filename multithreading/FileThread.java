@@ -1,3 +1,4 @@
+// Write a Word Count program and count words from two or more files files. Write separate threads to count words from a specific file and display word count of each file
 package multithreading;
 
 import java.io.BufferedReader;
